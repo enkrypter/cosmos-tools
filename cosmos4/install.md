@@ -1,7 +1,7 @@
 #This script Install Cosmos + create systemd service and run and sync CosmosHub 4.
 #Firewal need open 26656 for p2p before run
 
-1.-- $ wget https://raw.githubusercontent.com/enkryptercosmos-tools/master/cosmos4_/cosmos4.sh
+1.-- $ wget https://raw.githubusercontent.com/enkrypter/cosmos-tools/master/cosmos4/cosmos4.sh
 
 2.-- $ chmod +x ./cosmos4.sh
 
