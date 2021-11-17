@@ -1,5 +1,6 @@
 #!/bin/bash
 # Install Cosmos + create systemd service ,run and sync Cosmos Hub 3, by Víctor from melea "Genesis Cosmos Validator"
+#today
 
 USER=$(whoami)
 printf "Enter moniker: "
